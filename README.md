@@ -3,4 +3,4 @@
 
 just very simple 9gag images randomizer
 
-using: node.js, express, jade, jsdom
+using: [node.js](http://nodejs.org/), [express](http://expressjs.com/), [jade](http://jade-lang.com/), [jsdom](https://github.com/tmpvar/jsdom)
