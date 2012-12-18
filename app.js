@@ -28,7 +28,7 @@ app.configure('development', function(){
 });
 
 app.get('/', function(req, res) {  
-  var title = '9gag randomizer';
+  var title = '9gag//randomizer';
   // request
   request('http://9gag.com/random', function (error, response, body) {
     if (!error && response.statusCode == 200) {      
